@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student, who major in Information Management, in National Taiwan University.
+I'm currently a student, who majors in Information Management, in National Taiwan University. Passion about learning new things, I'm doing the research about LLM and RAG. I have some experience of full-stack development.
 
 
 ## 🌐 Socials:
